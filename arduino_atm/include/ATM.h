@@ -1,6 +1,5 @@
 #ifndef ATM_H
 #define ATM_H
-
 #include <Arduino.h>
 #include "../lib/LiquidCrystal_I2C/LiquidCrystal_I2C.h"
 
